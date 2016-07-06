@@ -1,6 +1,6 @@
 # djangoflatpages2hugo
 
-Script to convert Django flatpages to Hugo Markdown files with YAML frontmatter
+Script to convert Django [flatpages](https://docs.djangoproject.com/en/1.9/ref/contrib/flatpages/) to [Hugo](http://gohugo.io/) Markdown files with YAML frontmatter
 
 I needed to export a lot of entries stored in the SQLite database of my [previous Django site](http://github.com/hypertexthero/hypertexthero.com) for importing into the new [Hugo-powered SimonGriffee.com](/notebook/website-redesign-july2016/). 
 
