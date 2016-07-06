@@ -14,9 +14,9 @@ class Command(BaseCommand):
     yourdjangoproject/
                 management/
                         commands/
-                                djangoflatpages2hugo.py
+                                djangoflatpage2hugo.py
     2. Make sure there are __init__.py files in both management and commands folders
-    3. Run: python manage.py djangoflatpages2hugo /chosen/output/directory/
+    3. Run: python manage.py djangoflatpage2hugo /chosen/output/directory/
     4. Find the converted .md files in /chosen/output/directory
     """
     help = 'Export hth flat pages as Hugo markdown files'
