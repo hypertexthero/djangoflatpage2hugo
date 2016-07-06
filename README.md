@@ -8,7 +8,7 @@ Thankfully, [Sam Kingston](https://github.com/sjkingo) had already [written a sc
 
 To use it:
 
-1. Save `djangoflatpage2hugo.py` below in: 
+1. Save the `djangoflatpage2hugo.py` file in the following location: 
     <pre><code>yourdjangoproject/
                 management/
                         commands/
